@@ -15,7 +15,7 @@ If it still does not work, you may need to create a new virtual environment and 
 
 
 <br />
-<ins>Links to the textbook</ins>
+<ins>Links</ins>
 
 - *Textbook*: “Financial Data Analytics: with Machine Learning, Optimization and Statistics (Wiley Finance Series, 2024)”  https://www.amazon.com/Financial-Analytics-Learning-Optimization-Statistics/dp/1119863376
 - *Codes to Textbook*: https://github.com/kaiser1999/Financial-Data-Analytics

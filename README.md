@@ -2,8 +2,8 @@ Tutorial Materials for Seminar Series on Financial Data Analytics at
 
 School of Physical and Mathematical Sciences (SPMS), Nanyang Technological University, Singapore.  
 
-
-Setup:
+<br />
+<ins>Setup</ins>
 
 Please have anaconda installed at ```https://www.anaconda.com/download```.  
 
@@ -14,8 +14,8 @@ If importing ```tensorflow``` raises error, you might want to uninstall it and i
 If it still does not work, you may need to create a new virtual environment and install it there.  
 
 
-
-Link to the textbook:
+<br />
+<ins>Link to the textbook</ins>
 
 “Financial Data Analytics: with Machine Learning, Optimization and Statistics (Wiley Finance Series, 2024)” 
 

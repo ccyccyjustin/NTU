@@ -5,9 +5,9 @@ School of Physical and Mathematical Sciences (SPMS), Nanyang Technological Unive
 <br />
 <ins>Setup</ins>
 
-Please have anaconda installed at ```https://www.anaconda.com/download```.  
+Please have anaconda installed (```https://www.anaconda.com/download```).  
 
-Packages required: arch, CIBer, scikit-plot, tensorflow. All can be installed through pip.
+Packages required: ```arch, CIBer, scikit-plot, tensorflow```. All can be installed through pip.
 
 If importing ```tensorflow``` raises error, you might want to uninstall it and install it through conda instead.
 
@@ -15,8 +15,14 @@ If it still does not work, you may need to create a new virtual environment and 
 
 
 <br />
-<ins>Link to the textbook</ins>
+<ins>Links to the textbook</ins>
 
-“Financial Data Analytics: with Machine Learning, Optimization and Statistics (Wiley Finance Series, 2024)” 
+- *Textbook*: “Financial Data Analytics: with Machine Learning, Optimization and Statistics (Wiley Finance Series, 2024)”  https://www.amazon.com/Financial-Analytics-Learning-Optimization-Statistics/dp/1119863376
+- *Codes to Textbook*: https://github.com/kaiser1999/Financial-Data-Analytics
 
-https://www.amazon.com/Financial-Analytics-Learning-Optimization-Statistics/dp/1119863376
+<br />
+<ins>Declaration</ins>
+
+Some of the materials are adopted from the internet. No copyright infringement intended.
+
+Please feel free to reach me at ccyccyjustin@gmail.com
